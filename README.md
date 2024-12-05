@@ -8,10 +8,11 @@ STEPS TO BE FOLLOWED
 *STEP_2  
 <img width="672" alt="Screenshot 2024-12-05 at 19 20 16" src="https://github.com/user-attachments/assets/679f8b19-b24c-4cf0-a37f-b0b77e6f57d5">  
 *OUTPUT  
-
-<img width="1436" alt="Screenshot 2024-12-05 at 19 42 55" src="https://github.com/user-attachments/assets/138f4517-993d-4686-a097-85675896d6c7">  
+  
+<img width="1428" alt="Screenshot 2024-12-05 at 19 42 13" src="https://github.com/user-attachments/assets/3ace19ec-7773-48f3-a77f-daf8047a7ece">  
 [6a8ac69fb09d1bbf0cda57ddb1715058582d7931f7627fc201506558.webm](https://github.com/user-attachments/assets/939bf169-5600-408c-8b7d-866eb47f7220)  
-<img width="1439" alt="Screenshot 2024-12-05 at 19 44 11" src="https://github.com/user-attachments/assets/e9935f2e-f85a-4073-9328-75763a6957b3">
+<img width="1440" alt="Screenshot 2024-12-05 at 19 45 50" src="https://github.com/user-attachments/assets/43377411-7a7e-42b8-9343-5ca38fa217ad">
+
 
 
 **ERROR WITH MAC_OS  
