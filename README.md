@@ -10,7 +10,8 @@ STEPS TO BE FOLLOWED
 *OUTPUT  
 
 <img width="1436" alt="Screenshot 2024-12-05 at 19 42 55" src="https://github.com/user-attachments/assets/138f4517-993d-4686-a097-85675896d6c7">  
-<img width="623" alt="Screenshot 2024-12-05 at 19 45 23" src="https://github.com/user-attachments/assets/e6aac4e7-fe8b-4cfa-a7c1-f55905591e27">
+<img width="1439" alt="Screenshot 2024-12-05 at 19 44 11" src="https://github.com/user-attachments/assets/e9935f2e-f85a-4073-9328-75763a6957b3">
+
 
 **ERROR WITH MAC_OS  
 <img width="913" alt="Screenshot 2024-12-05 at 19 27 42" src="https://github.com/user-attachments/assets/126bb7e3-c54b-47c4-9a3b-16fa51fb1e96">  
