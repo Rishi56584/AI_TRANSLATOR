@@ -10,7 +10,7 @@ import pyttsx3
 import tempfile
 import threading
 
-pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/bin/tesseract"
+pytesseract.pytesseract.tesseract_cmd = "GIVE_YOUR_TESSERACT_PATH"
 
 def google_translate(text, src_lang, tgt_lang):
     translator = Translator()
@@ -175,7 +175,7 @@ if st.button("🕒 Show Translation History"):
 rating = st.slider("⭐ Rate the Translation Quality", 1, 5, 3)
 if rating:
     st.write(f"User Rating: {rating}/5")
-
+    
 st.markdown(
     """
     <style>
