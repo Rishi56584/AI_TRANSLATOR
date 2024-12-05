@@ -1,7 +1,7 @@
 # AI_TRANSLATOR
-Converts text,files,audio into desires languages. 
-##STEPS TO BE FOLLOWED
-#STEP_1
+Converts text,files,audio into desires languages. \n
+##STEPS TO BE FOLLOWED \n
+#STEP_1 \n
 <img width="673" alt="Screenshot 2024-12-05 at 19 19 35" src="https://github.com/user-attachments/assets/feebdbf8-df19-4c40-9a27-fc9e08b32f12">
 #STEP_2
 <img width="672" alt="Screenshot 2024-12-05 at 19 20 16" src="https://github.com/user-attachments/assets/679f8b19-b24c-4cf0-a37f-b0b77e6f57d5">
