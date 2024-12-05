@@ -1,0 +1,7 @@
+streamlit
+googletrans==4.0.0-rc1
+gTTS
+Pillow
+pytesseract
+SpeechRecognition
+pyttsx3
