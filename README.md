@@ -7,6 +7,11 @@ STEPS TO BE FOLLOWED
 <img width="673" alt="Screenshot 2024-12-05 at 19 19 35" src="https://github.com/user-attachments/assets/feebdbf8-df19-4c40-9a27-fc9e08b32f12">  
 *STEP_2  
 <img width="672" alt="Screenshot 2024-12-05 at 19 20 16" src="https://github.com/user-attachments/assets/679f8b19-b24c-4cf0-a37f-b0b77e6f57d5">  
+*OUTPUT  
+
+<img width="1436" alt="Screenshot 2024-12-05 at 19 42 55" src="https://github.com/user-attachments/assets/138f4517-993d-4686-a097-85675896d6c7">  
+<img width="623" alt="Screenshot 2024-12-05 at 19 45 23" src="https://github.com/user-attachments/assets/e6aac4e7-fe8b-4cfa-a7c1-f55905591e27">
+
 **ERROR WITH MAC_OS  
 <img width="913" alt="Screenshot 2024-12-05 at 19 27 42" src="https://github.com/user-attachments/assets/126bb7e3-c54b-47c4-9a3b-16fa51fb1e96">  
 1.CHECK YOUR SAFARI PERMISSIONS...  
